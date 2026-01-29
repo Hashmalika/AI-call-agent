@@ -156,9 +156,8 @@ The system correctly handles the required failure scenario:
 ```bash
 python main.py
 ```
-Notes
-
-## External services are mocked for demonstration purposes
+## Notes
+External services are mocked for demonstration purposes
 
 Alert channels are mocked
 
